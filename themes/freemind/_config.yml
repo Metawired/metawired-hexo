@@ -1,0 +1,34 @@
+slogan: ""
+icon: logo.png
+
+menu:
+  - title: Archives
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+
+links:
+  - title: Metawired
+    url: http://metawired.eu
+    intro: "Metawired website"
+    icon: "fa fa-folder"
+
+widgets:
+- search
+- category
+- tagcloud
+- recent_posts  
+- links
+
+rss: 
+fancybox: true
+favicon: favicon.ico
+duoshuo_shortname:
+
+# Analytics
+google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
